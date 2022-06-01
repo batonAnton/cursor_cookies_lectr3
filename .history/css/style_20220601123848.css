@@ -1,0 +1,74 @@
+body {
+  margin: 124px 24px;
+  font-family: "Roboto", sans-serif;
+}
+p {
+  font-size: 0.8rem;
+}
+
+.banner_1 {
+  width: 100%;
+  display: inline-flex;
+  background-color: #0b2239;
+}
+
+.banner_1 p {
+  color: #ffffff;
+  margin: 15px 15px 15px 50px;
+}
+
+.banner_1 a {
+  color: #4ad295;
+  margin: 25px 28px;
+  font-size: 0.7rem;
+  text-transform: capitalize;
+}
+
+.banner_1 button {
+  color: #ffffff;
+  background-color: #4ad295;
+  margin: 14px 50px 0px 0px;
+  height: 35px;
+  text-transform: capitalize;
+  border-radius: 3px;
+  border: none;
+}
+
+.banner_2 {
+  width: 100%;
+  margin-top: 30px;
+  background-color: #2b2627;
+  display: inline-flex;
+}
+
+.banner_2 p {
+  color: #ffffff;
+  margin: 15px auto;
+}
+
+.banner_2 button {
+  border: none;
+  color: #ffffff;
+  background-color: #2b2627;
+}
+
+.under_span {
+  text-decoration: underline;
+}
+
+.banner_3 {
+  display: inline-flex;
+  margin-top: 40px;
+  border-radius: 15px;
+  border: 1px solid gray;
+  padding: 10px;
+}
+
+.banner_3 p {
+  margin: 15px;
+}
+
+.banner_3 img {
+  height: 20px; 
+  margin-top: 17px;
+}
