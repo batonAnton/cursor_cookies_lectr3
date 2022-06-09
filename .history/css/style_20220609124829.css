@@ -114,14 +114,13 @@ p {
   border-radius: 15px;
   padding: 10px;
   display: block;
-  width: 533px;
+  width: 600px;
   margin-bottom: 70px;
 }
 
 .banner_4 p {
   margin: 15px auto;
   display: inline-flex;
-  font-size: 0.7rem;
 }
 
 .banner_4 a {
@@ -213,7 +212,6 @@ p {
 .banner_7 p {
   font-weight: 100;
   color: #15295a;
-  font-family: 'Inter';
 }
 
 .banner_7 button {
@@ -240,7 +238,6 @@ p {
 
 .banner_8 p {
   color: #000000;
-  font-family: 'Roboto', sans-serif;
 }
 
 .banner_8 h5 {
